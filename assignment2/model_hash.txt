@@ -1,0 +1,6 @@
+aircrafts_weight.h5 	00e12626599e7c16deb072367d2fb81e
+birds_weight.h5 		abf7f7bfab08b0072d81483d00fb9225
+cars_weight.h5 			793cc02e849ee4c09fddcc41dd75ab34
+flowers_weight.h5 		18f305f06428fe92b140e7ce921f3774
+dogs_weight.h5 			5b3999d52c60e43743bba08b399c0f24
+coarse_model.h5  		27f7cd3b2e69b44c21381b22d6daab8d
